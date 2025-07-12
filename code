@@ -1,2 +1,10 @@
 credits=50
 fuel=1000
+army=[]
+army_strenghth=0
+hp_cannon=[]
+hp_base=1000
+hp_reactor=10
+hp_aliens=0
+hp_enemyarmy=0
+hp_robots=0
